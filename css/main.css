@@ -690,7 +690,7 @@ textarea,
    user-select: none; max-height: 100%;
 	}
   .home-text-container {
-	position: absolute; left: 100%; display: inline-block; vertical-align: middle; top: 0; background-color: #030303; width: auto; height: 100%; overflow: hidden;
+	position: absolute; left: 100%; display: inline-block; vertical-align: middle; top: 0; background-color: #029d3f; width: auto; height: 100%; overflow: hidden;
 	}
   .one-page-layout .home-text-container {
 	transform: scaleX(0); transform-origin: left;
