@@ -2891,10 +2891,10 @@ a {
  	color: #1851f1;
 	}
 a:hover {
- 	color: #2c00ff;
+ 	color: #c27f00;
 	}
 .cool-link {
-	background-image: linear-gradient(transparent 88%, #2c00ff 12%);
+	background-image: linear-gradient(transparent 88%, #c27f00 12%);
 	}	
 
 /* Text Selection */
@@ -2926,10 +2926,10 @@ button:hover,
 .home-menu .item-name::after,
 .overlay-2,
 .mfp-bg  {
- 	background-color: #1851f1;
+ 	background-color: #c27f00;
 	}
 *::-webkit-scrollbar-thumb {
-	background-color: #1851f1;
+	background-color: #c27f00;
 	}
 .bypostauthor > article,
 .event h3,
@@ -2944,7 +2944,7 @@ button,
 .button,
 .more-link,
 .navigation a {
-	border-color: #1851f1
+	border-color: #c27f00
 	}
 .event h3,
 .entry-title a:hover,
@@ -2955,8 +2955,8 @@ button,
 .more-link,
 .navigation a,
 .filters .current .cool-link {
-	color: #1851f1
+	color: #c27f00
 	}
 #nprogress .spinner-icon {
-  	border-top-color: #1851f1; border-left-color: #1851f1;
+  	border-top-color: #c27f00; border-left-color: #c27f00;
 	}
