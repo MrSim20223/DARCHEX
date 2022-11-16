@@ -666,7 +666,7 @@ textarea,
   }
   
   .home-logo {
-	display: inline-block; background-color: #fff; white-space: nowrap; font-size: 0; width: auto; margin: 0 auto; font-weight: 500; box-shadow: 0 0 16px rgba(0, 0, 0, 0.2); position: relative;
+	display: inline-block; background-color: #0000; white-space: nowrap; font-size: 0; width: auto; margin: 0 auto; font-weight: 500; box-shadow: 0 0 16px rgba(0, 0, 0, 0); position: relative; transform: scale(2);
 	}
   .home-logo i {
 	font-style: normal; font-size: 4.4vmin; display: inline-block; vertical-align: middle;
@@ -678,7 +678,7 @@ textarea,
 	padding-left: 40px; overflow: hidden;
 	}
   .home-logo-center {
-	  font-size: 0; line-height: 0; padding: calc(2px + 1.2vw); position: relative; background-color: #fff;
+	  font-size: 0; line-height: 0; padding: calc(2px + 1.2vw); position: relative; background-color: #0000;
 	}
   .home-logo-right {
 	padding-right: 40px; overflow: hidden;
@@ -693,7 +693,7 @@ textarea,
 	position: absolute; left: 100%; display: inline-block; vertical-align: middle; top: 0; background-color: #029d3f; width: auto; height: 100%; overflow: hidden;
 	}
   .one-page-layout .home-text-container {
-	transform: scaleX(0); transform-origin: left;
+	transform: scaleX(5); transform-origin: left;
 	}
   .home-text-container-placeholder {
 	opacity: 0; visibility: hidden; position: relative; line-height: 0.8em; margin-bottom: 0; padding-top: 3.5vh; margin-top: 0;
@@ -758,7 +758,7 @@ textarea,
   
 /* Home Job Title */
 .home-job-title {
-	margin: 0 auto; white-space: normal; box-sizing: border-box; font-size: calc(10px + .14vw); font-weight: 700; position: absolute; bottom: 106%; color: #fff; text-align: right; text-transform: uppercase; letter-spacing: 2px; text-shadow: 0 0 8px rgba(0, 0, 0, 0.44);
+	margin: 0 auto; white-space: normal; box-sizing: border-box; font-size: calc(10px + .14vw); font-weight: 700; position: absolute; bottom: 106%; color: #fff; text-align: right; text-transform: uppercase; letter-spacing: 2px; text-shadow: 0 0 8px rgba(255, 255, 255, 1);
 	}
 .no-image-logo .home-job-title { 
 	text-align: center; 
