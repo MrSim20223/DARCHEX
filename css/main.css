@@ -126,6 +126,8 @@ blockquote {
     font-family:fontello; font-style:normal; font-weight:400; speak:none; display:inline-block; text-decoration:inherit; text-align:center; font-variant:normal; text-transform:none;
     }
 
+
+
 /* ----- 1.3 TYPOGRAPHY ----- */
 /* headings and paragraphs  */
 h1 {
@@ -699,7 +701,7 @@ textarea,
 	opacity: 0; visibility: hidden; position: relative; line-height: 0.8em; margin-bottom: 0; padding-top: 3.5vh; margin-top: 0;
 	}
   .home-text {
-	position: absolute; top: 0; left: 100%; line-height: 0.8em; margin-bottom: 0; padding-top: 3vh; color: #ffffff;
+	position: absolute; top: 0; left: 100%; line-height: 0.8em; margin-bottom: 0; padding-top: 3vh; color: #ffffff; font-family: 'Source Serif Pro', serif;
 	}
   .home-logo-center,
   .home-logo-left,
@@ -778,7 +780,7 @@ _:-ms-fullscreen, :root .home-menu  { transform: translateY(-50%); }
 	line-height: 1; position: relative; outline: none; display: flex; flex-direction: column; align-items: flex-start; margin: 1.8vh 0; overflow: hidden;
 	}
 .home-menu .item-name {
-	position: relative; display: inline-block; font-size: 5.6vh; font-weight: 400; overflow: hidden; padding: 0 5px 0 32px; text-transform: uppercase; color: #fff; transform: translateY(100%); transition: transform 1.2s cubic-bezier(0.23, 1, 0.32, 1); text-shadow: 0 0 20px rgba(0, 0, 0, 0.27);
+	position: relative; display: inline-block; font-size: 5.6vh; font-weight: 400; overflow: hidden; padding: 0 5px 0 32px; text-transform: uppercase; color: #fff; transform: translateY(100%); transition: transform 1.2s cubic-bezier(0.23, 1, 0.32, 1); text-shadow: 0 0 20px rgba(0, 0, 0, 0.27); font-family: 'Source Serif Pro', serif;
 	}
 .home-loaded .home-menu a:nth-child(1) .item-name {
 	transition-delay: 1s;
