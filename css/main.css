@@ -2893,10 +2893,10 @@ a {
  	color: #1851f1;
 	}
 a:hover {
- 	color: #00993d;
+ 	color: #9cc420;
 	}
 .cool-link {
-	background-image: linear-gradient(transparent 88%, #00993d 12%);
+	background-image: linear-gradient(transparent 88%, #9cc420 12%);
 	}	
 
 /* Text Selection */
@@ -2928,10 +2928,10 @@ button:hover,
 .home-menu .item-name::after,
 .overlay-2,
 .mfp-bg  {
- 	background-color: #00993d;
+ 	background-color: #9cc420;
 	}
 *::-webkit-scrollbar-thumb {
-	background-color: #00993d;
+	background-color: #9cc420;
 	}
 .bypostauthor > article,
 .event h3,
@@ -2946,7 +2946,7 @@ button,
 .button,
 .more-link,
 .navigation a {
-	border-color: #00993d
+	border-color: #9cc420
 	}
 .event h3,
 .entry-title a:hover,
@@ -2957,8 +2957,8 @@ button,
 .more-link,
 .navigation a,
 .filters .current .cool-link {
-	color: #00993d
+	color: ##9cc420
 	}
 #nprogress .spinner-icon {
-  	border-top-color: #00993d; border-left-color: #00993d;
+  	border-top-color: #9cc420; border-left-color: #9cc420;
 	}
